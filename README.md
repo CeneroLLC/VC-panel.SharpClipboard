@@ -1,3 +1,5 @@
+A clipboard tool used from the Proactive VC panel as an external dependency. forked repo for long term support. 
+
 # SharpClipboard
 [![nuget-downloads](https://img.shields.io/nuget/dt/SharpClipboard?label=Downloads)](https://www.nuget.org/packages/SharpClipboard/) [![wk-donate](https://img.shields.io/badge/BuyMeACoffee-Donate-orange.svg)](https://www.buymeacoffee.com/willykimura)
 
